@@ -19,11 +19,16 @@
 // }
 
 var images = new Array(
-  "images/slidshow/pic1.jpg",
-  "images/slidshow/pic2.jpg",
-  "images/slidshow/pic3.jpg",
-  "images/slidshow/pic4.jpg",
-  "images/slidshow/pic5.jpg"
+  //"images/slidshow/pic1.jpg",
+  //"images/slidshow/pic2.jpg",
+  //"images/slidshow/pic3.jpg",
+  //"images/slidshow/pic4.jpg",
+  //"images/slidshow/pic5.jpg"
+  // "images/slidshow/administrative block_image.jpg",
+  //"images/slidshow/campus_image.jpg",
+ // "images/slidshow/campus1_image.jpg",
+  "images/slidshow/campus3_image.webp",
+  "images/slidshow/campus4_image.webp"
 );
 var nextimage = 0;
 doSlideshow();
