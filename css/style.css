@@ -601,6 +601,7 @@ select.form-control:not([size]):not([multiple]) {
 .main-nav .navbar-brand {
   padding: 35px 40px 35px 50px;
   border-right: 1px solid #e5e5e5;
+  
 }
 
 @media (max-width: 1200px) {
@@ -615,6 +616,10 @@ select.form-control:not([size]):not([multiple]) {
   }
 }
 
+.ieee-logo {
+  width: 130px;
+  height: auto;
+}
 .main-nav .navbar-nav .nav-item {
   position: relative;
   font-family: "Roboto", sans-serif;
